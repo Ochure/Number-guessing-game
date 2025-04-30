@@ -60,4 +60,4 @@ License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 # PROJECT URL
-https://roadmap.sh/projects/number-guessing-game****
+https://roadmap.sh/projects/number-guessing-game
