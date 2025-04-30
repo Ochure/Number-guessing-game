@@ -13,4 +13,4 @@ Hints if you get stuck
 Timer and high score tracking
 
 # Project URLs
-https://github.com/Ochure/Number-guessing-game/tree/master
+https://roadmap.sh/projects/number-guessing-game
