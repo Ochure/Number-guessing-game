@@ -11,3 +11,6 @@ Limited attempts to guess the number
 Hints if you get stuck
 
 Timer and high score tracking
+
+# Project URLs
+https://github.com/Ochure/Number-guessing-game/tree/master
