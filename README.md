@@ -11,21 +11,16 @@ Limited Attempts: You have a limited number of chances to guess the correct numb
 Hints: Get helpful hints if you're stuck.
 
 Timer: Tracks how long it takes to guess the number.
-
 High Score: Tracks the fewest attempts made to guess correctly.
 
-How to Play
+# How to Play
 The game will select a random number within a predefined range (depending on the difficulty level).
-
 Guess the number within the given number of attempts.
-
 If you guess the number correctly, you win.
-
 If you don't guess correctly within the limit, you lose.
-
 After each round, you can choose to play again.
 
-Installation
+# Installation
 Clone the repository:
 
 bash
@@ -39,10 +34,9 @@ Copy
 Edit
 cd Number-guessing-game
 Ensure Python is installed (you can download it from here).
-
 Install any necessary dependencies (if applicable, though this project doesn't have any external dependencies).
 
-Running the Game
+# Running the Game
 To start the game, run the following command in your terminal:
 
 bash
@@ -65,3 +59,5 @@ Submit a pull request.
 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
+# PROJECT URL
+https://roadmap.sh/projects/number-guessing-game****
