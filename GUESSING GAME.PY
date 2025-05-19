@@ -71,6 +71,6 @@ def play_game():
     else:
         print("👋 Thanks for playing! Goodbye.")
         
-    elif:continue
+
 # Start the game
 play_game()
